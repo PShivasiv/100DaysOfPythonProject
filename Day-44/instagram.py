@@ -1,4 +1,4 @@
-PASSWORD = "#pandian01"
+PASSWORD = "YOUR PASSWORD"
 
 
 from selenium import webdriver
